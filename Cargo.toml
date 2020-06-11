@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 better_dwm_statusbar = { git = "https://github.com/realSuffix/better_dwm_statusbar"}
+actix = "0.9"
+actix-rt = "1"
