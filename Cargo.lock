@@ -245,7 +245,7 @@ checksum = "b41b7ea54a0c9d92199de89e20e58d49f02f8e699814ef3fdf266f6f748d15c7"
 [[package]]
 name = "better_dwm_statusbar"
 version = "0.1.0"
-source = "git+https://github.com/realSuffix/better_dwm_statusbar#51c4ae3d89a914e2e0cb3f53c3f2336803e4b365"
+source = "git+https://github.com/realSuffix/better_dwm_statusbar#eb1a62c4f9a388adfcb69a54374b98ec31231a68"
 dependencies = [
  "actix",
  "chrono",
